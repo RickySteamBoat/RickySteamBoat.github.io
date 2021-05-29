@@ -305,3 +305,15 @@ body {
   -o-animation-name: fadeInUp;
   animation-name: fadeInUp;
   }
+
+.button {
+  background-color: #558CA1; /* Green */
+  border: none;
+  white-space: nowrap;
+  color: white;
+  padding: 13px 90px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
